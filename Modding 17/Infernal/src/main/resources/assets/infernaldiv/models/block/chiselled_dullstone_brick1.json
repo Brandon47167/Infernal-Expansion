@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "infernaldiv:blocks/chisseld_dullstone_brick1"
-  }
-}
